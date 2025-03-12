@@ -74,7 +74,7 @@ st.divider()
 
 st.header("Sobre mim")
 st.write("🙋‍♂️Sou um estudante de Engenharia de Software apaixonado pela tecnologia e todo o seu potencial, comprometido a transformar ideias em soluções inovadoras.")
-st.write("📚 Atualmente estou cursando o 3º Semestre do curso de Engenharia de Software pela Faculdade de Informática e Administração Paulista (FIAP).")
+st.write("📚 Atualmente estou cursando o 4º Semestre do curso de Engenharia de Software pela Faculdade de Informática e Administração Paulista (FIAP).")
 
 st.write("📚 A curiosidade e a vontade de aprender me guiam de forma que desenvolvi competências em áreas como Design Thinking, Tecnologia Sustentável e Gestão de Infraestrutura de TI")
 

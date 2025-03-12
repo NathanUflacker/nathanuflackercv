@@ -74,7 +74,7 @@ ax3.set_title('Correlação entre Portugueses Presos e Quantidade de Crimes')
 ax3.grid(True)
 st.pyplot(fig3)
 
-st.markdown("Segundo o [Relatório Indicadores de Integração de Imigração de 2022](https://www.portugal.gov.pt/download-ficheiros/ficheiro.aspx?v=%3D%3DBQAAAB%2BLCAAAAAAABAAzNDazMAQAhxRa3gUAAAA%3D), `84.7%` dos reclusos nas prisões portuguesas são portugueses, contra `15.3%` de estrangeiros. Isto é, os portuguesas lideraram, em parâmetros de nacionalidade, o número de presos em seu país.")
+st.markdown("Segundo o [Relatório Indicadores de Integração de Imigração de 2022](https://www.portugal.gov.pt/download-ficheiros/ficheiro.aspx?v=%3D%3DBQAAAB%2BLCAAAAAAABAAzNDazMAQAhxRa3gUAAAA%3D), `84.7%` dos reclusos nas prisões portuguesas são portugueses, contra `15.3%` de estrangeiros. Isto é, os portugueses lideraram, em parâmetros de nacionalidade, o número de presos em seu país.")
 
 st.divider()
 
